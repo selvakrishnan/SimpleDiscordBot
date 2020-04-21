@@ -1,4 +1,4 @@
-# SimpleDiscordBot
+# Simple Discord Bot
 
 Step 1:Go to this link : https://discordapp.com/developers/applications
 
