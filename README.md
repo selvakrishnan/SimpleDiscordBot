@@ -37,3 +37,9 @@ Step 1:Do you remember we copied the Token.Create a token.txt file and paste the
 Step 2:py -3 -m pip install -U discord.py [It is used to install Discord Python Package]
 
 Step 3:Run the DiscordBot.py
+
+# Output 
+
+Step 1:Run the above code and go to discord and drop a message !queries it will reply you back. In the place of !queries you can add what you want and you can add more statements after if statement you can add more and more elif statments.
+
+
