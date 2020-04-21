@@ -16,7 +16,7 @@ Step 7:In Bot Section Scroll there will section called BOT PERMISSIONS. Under BO
 
 Step 8:After Ticked under that there will be a Permission ID (COPY IT in NOTEPAD)
 
-#INTEGRATING WITH DISCORD SERVER
+# INTEGRATING WITH DISCORD SERVER
 
 Step 1:The above copied Client ID and PermissionID is pasted in the curly braces area in the link and remove the bracecs after copied Link : https://discordapp.com/oauth2/authorize?client_id={CLIENTID}&scope=bot&permissions={PERMISSIONINT}
 
@@ -30,7 +30,7 @@ Step 5:And in the setting section click Permissions and scroll down Text Permiss
 
 Step 6:Integration is complete
 
-#Run Progam
+# Run Program
 
 Step 1:Do you remember we copied the Token.Create a token.txt file and paste the token
 
